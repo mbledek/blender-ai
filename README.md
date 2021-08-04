@@ -68,7 +68,7 @@ git clone https://github.com/mbledek/blender-ai.git
 ```
 2. Install all necessary python modules with
 ```
-pip install -r Rec_gen_send_requirements.txt
+pip install -r Jar_local_requirements.txt
 ```
 3. Install pyaudio: https://www.lfd.uci.edu/~gohlke/pythonlibs/
 4. Because of smtplib's 'ascii' formatting, you have to change it to 'utf-8':
